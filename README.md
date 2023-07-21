@@ -1,5 +1,6 @@
 <h1 align="center">
- <img src="https://github.com/NIPERR/dotfiles/assets/82673619/d131c932-c33e-4e50-b7b3-53acafd19e82" /> <br>
+ <img src="https://github.com/NIPERR/dotfiles/assets/82673619/d131c932-c33e-4e50-b7b3-53acafd19e82" 
+width="100px" /> <br>
 
   <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/macchiato.png" width="600px" /> <br>
 
