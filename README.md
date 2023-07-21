@@ -1,4 +1,4 @@
-
+<h1 align="center">
 <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/macchiato.png" width="600px" /> <br>
 
 <h1 align="center">
@@ -20,4 +20,5 @@ NIPER dotfiles
 - Swaync - menadżer powiadomień 📱
 - Grim - narzędzie do screenshotów 💾
 
+<h1 align="center">
   <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/macchiato.png" width="600px" /> <br>
