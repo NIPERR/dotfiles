@@ -2,6 +2,8 @@
 <h1 align="center">
  <img src="https://github.com/NIPERR/dotfiles/assets/82673619/7c3ee839-a9eb-41ad-bf7b-63b4898489d9" width="100px" /> <br>
 
+  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/macchiato.png" width="600px" /> <br>
+
 NIPER dotfiles
 
   <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/palette/macchiato.png" width="600px" /> <br>
