@@ -1,0 +1,8 @@
+preload = /path/to/file
+#if more than one preload is desired then continue to preload other backgrounds
+preload = /path/to/file
+# .. more preloads
+
+#set the default wallpaper(s) seen on inital workspace(s) --depending on the number of monitors used
+wallpaper = Monitor,/path/to/file
+
